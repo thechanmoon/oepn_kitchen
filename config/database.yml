@@ -23,11 +23,19 @@ test:
 production:
   # <<: *default
   # database: db/production.sqlite3
+  # adapter: postgresql
+  # encoding: unicode
+  # pool: 5
+  # port: 5432
+  # host: ec2-34-236-215-156.compute-1.amazonaws.com
+  # database: d2ipk505cth7c
+  # username: rmhsgvdbogytks
+  # password: 0fe30557b17743ed576e322191d4969c232b07b6b63c6164c006744e318683c3
   adapter: postgresql
   encoding: unicode
   pool: 5
   port: 5432
-  host: ec2-34-236-215-156.compute-1.amazonaws.com
-  database: d2ipk505cth7c
-  username: rmhsgvdbogytks
-  password: 0fe30557b17743ed576e322191d4969c232b07b6b63c6164c006744e318683c3
+  host: ec2-35-175-155-248.compute-1.amazonaws.com
+  database: df4l2ei29817qk
+  username: pogkntxpmztfps
+  password: fa24930295be9d0206abd81a9f9a26224c9d09c6328a9b71353dbc453bb6f02d
