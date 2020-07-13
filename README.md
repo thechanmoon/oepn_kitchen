@@ -57,6 +57,6 @@ bundle exec rspec
 ```
 * Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
-
+* Deployment
+Project is deployed in Heroku https://open-kitchen-snc.herokuapp.com
 * ...
